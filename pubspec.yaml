@@ -33,6 +33,7 @@ dependencies:
   firebase_core: any
   firebase_database: any
   get: any
+  auto_animated: any
 
 dev_dependencies:
   flutter_test:
